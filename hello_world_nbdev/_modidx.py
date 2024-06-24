@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://simveit.github.io',
                 'git_url': 'https://github.com/simveit/hello-world-nbdev',
                 'lib_path': 'hello_world_nbdev'},
-  'syms': {'hello_world_nbdev.core': {'hello_world_nbdev.core.foo': ('core.html#foo', 'hello_world_nbdev/core.py')}}}
+  'syms': { 'hello_world_nbdev.core': { 'hello_world_nbdev.core.foo': ('core.html#foo', 'hello_world_nbdev/core.py'),
+                                        'hello_world_nbdev.core.say_hello': ('core.html#say_hello', 'hello_world_nbdev/core.py')}}}
