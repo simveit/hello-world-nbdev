@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "hello-world-nbdev"
+  site-url: "https://simveit.github.io/hello-world-nbdev"
+  description: "Hello world repo for nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/simveit/hello-world-nbdev"
